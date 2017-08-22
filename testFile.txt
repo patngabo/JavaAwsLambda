@@ -1,0 +1,31 @@
+{
+    "context": {
+        "authorizer-principal-id": "",
+        "cognito-authentication-type": "",
+        "cognito-identity-id": "",
+        "resource-path": "/lms/authors/{authorId}",
+        "account-id": "985863529922",
+        "cognito-identity-pool-id": "",
+        "request-id": "test-invoke-request",
+        "api-id": "ffstl2zfs1",
+        "resource-id": "scif8o",
+        "user-arn": "arn:aws:iam::985863529922:root",
+        "caller": "985863529922",
+        "http-method": "GET",
+        "cognito-authentication-provider": "",
+        "api-key": "test-invoke-api-key",
+        "stage": "test-invoke-stage",
+        "source-ip": "test-invoke-source-ip",
+        "user": "985863529922",
+        "user-agent": "Apache-HttpClient/4.5.x (Java/1.8.0_112)"
+    },
+    "body-json": {"authorId": "3","authorName":"aloi"},
+    "params": {
+        "path": {
+            "authorId": "3"
+        },
+        "querystring": {},
+        "header": {}
+    },
+    "stage-variables": {}
+}
